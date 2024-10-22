@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Ekbote
-- 👀 I’m interested in ...AI/ML
-- 🌱 I’m currently learning ...Cloud
+- 👀 I’m interested in ...Web Dev, SalesForce
+- 🌱 I’m currently learning ...SalesForce
 - 💞️ I’m looking to collaborate on ...AI/ML Projects
 - 📫 How to reach me ...ekboterohan1@gmail.com
 
